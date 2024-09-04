@@ -92,7 +92,7 @@ _*Feedback is welcome.*_
 - Access the Docker container terminal: <br>
 `docker exec -it project-job-insights-web-1 bash`
 - Create and activate the virtual environment: <br>
-`cd src`
+`cd src`<br>
 `python3 -m venv .venv && source .venv/bin/activate`
 - Install the dependencies in the container terminal: <br>
 `python3 -m pip install -r dev-requirements.txt`
@@ -186,7 +186,7 @@ _*Feedbacks são bem vindos.*_
 - Acesse o terminal do container no Docker: <br>
 `docker exec -it project-job-insights-web-1 bash`
 - Crie e habilite o ambiente virtual: <br>
-`cd src`
+`cd src`<br>
 `python3 -m venv .venv && source .venv/bin/activate`
 - No terminal do container instale as dependências: <br>
 `python3 -m pip install -r dev-requirements.txt`
