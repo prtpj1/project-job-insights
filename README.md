@@ -78,7 +78,7 @@ _*Feedback is welcome.*_
 - Access the Python terminal by typing: <br>
 `python3`
 - Inside the Python terminal, you can execute the functions, for example: <br>
-`from src.jobs import read`
+`from src.jobs import read`<br>
 `read('src/jobs.csv')`
 
 #### :whale: With Docker
@@ -193,11 +193,9 @@ _*Feedbacks são bem vindos.*_
 - Acesse o terminal python digitando: <br>
 `python3 `
 - Dentro do terminal python você poderá executar as funções, por exemplo: <br>
-`from src.jobs import read`
+`from src.jobs import read`<br>
 `read('src/jobs.csv')`
 <hr/>
-</br>
-</br>
 
 _*OBS: Se tiver alguma dificuldade com as instruções e quiser dar um feedback me mande uma mensagem*_
 
