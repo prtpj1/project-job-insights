@@ -1,6 +1,6 @@
 # 31º Projeto Job Insights: 
 <p align="center">
-<img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/31-JobInsights.jpg?raw=true" alt="Header" />
+<img src="https://github.com/prtpj1/prtpj1/blob/main/Headers/31-JobInsights.jpg?raw=true" alt="Header" />
 <hr/>
 <p align="center">
 <a href="#project-description">Project Description</a> •
