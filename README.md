@@ -1,7 +1,8 @@
 # 31º Projeto Job Insights: 
 <p align="center">
 <img src="https://github.com/prtpj1/prtpj1/blob/main/Headers/31-JobInsights.jpg?raw=true" alt="Header" />
-<hr/>
+
+---
 <p align="center">
 <a href="#project-description">Project Description</a> •
 <a href="#in-this-project-i-learned-and-put-into-practice">Learning</a> •
@@ -9,7 +10,8 @@
 <a href="#stacks">Stacks</a> •
 <a href="#how-to-run-the-application">How to run the application</a>
 </p>
-<hr/>
+
+---
 <p align="center">
 <a href="#descrição-do-projeto">Descrição do Projeto</a> •
 <a href="#nesse-projeto-aprendi-e-coloquei-em-prática">Aprendizado</a> •
@@ -17,12 +19,12 @@
 <a href="#tecnologias-utilizadas">Tecnologias Utilizadas</a> •
 <a href="#como-rodar-a-aplicação">Rodar a Aplicação</a>
 </p>
-<hr/>
 
+---
 ## Project Description
-I completed this Computer Science project in Python during my learning period at Trybe, where I developed the implementation of functions for analyzing a dataset on jobs, which were extracted from the Glassdoor website and obtained (by Trybe) through Kaggle, a platform that provides datasets for data scientists.<br>
+I completed this Computer Science project in Python during my learning period at Trybe, where I developed the implementation of functions for analyzing a dataset on jobs, which were extracted from the Glassdoor website and obtained (by Trybe) through Kaggle, a platform that provides datasets for data scientists.
 
-## In this project, I learned and put into practice:
+## In this project, I learned and put into practice
 - Use the Python interactive terminal  
 - Use conditional and loop structures  
 - Use Python's built-in functions  
@@ -31,9 +33,8 @@ I completed this Computer Science project in Python during my learning period at
 - Write functions  
 - Write tests with Pytest  
 - Write my own modules and import them into other code  
-<hr/>
 
-## According to the project requirements designated by Trybe, I learned how to:
+## According to the project requirements designated by Trybe, I learned how to
 - ✅ Implement the `read` function
 - ✅ Implement the `get_unique_job_types` function
 - ✅ Implement the `get_unique_industries` function
@@ -58,15 +59,14 @@ _*I haven’t decided yet if it’s better to leave it like this to demonstrate 
 _*Feedback is welcome.*_
 
 ## Stacks
-### BackEnd:
+### BackEnd
 - Docker
 - Python
 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Docker2.png?raw=true" width="50" height="50" alt="Docker Icon" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Python2.png?raw=true" width="50" height="50" alt="Python Icon" /></a>
-<hr/>
 
 ## How to run the application?
-### Local:
+### Local
 - Clone the repository: <br>
 `git clone git@github.com:prtpj1/project-job-insights.git`
 - Access the project folder: <br>
@@ -101,15 +101,14 @@ _*Feedback is welcome.*_
 - Inside the Python terminal, you can execute the functions, for example: <br>
 `from src.jobs import read`<br>
 `read('src/jobs.csv')`
-<hr/>
 
 _*Note: If you encounter any difficulties with the instructions and want to give feedback, send me a message*_
-<hr/>
 
+---
 ## Descrição do Projeto
-Fiz este projeto de Ciência da Computação em Python durante meu período de aprendizagem na Trybe onde desenvolvi a implementação de funções para análises de um conjunto de dados sobre empregos, que foram extraídos do site Glassdoor e obtidos (pela Trybe) através do Kaggle, uma plataforma que disponibiliza conjuntos de dados para cientistas de dados.<br>
+Fiz este projeto de Ciência da Computação em Python durante meu período de aprendizagem na Trybe onde desenvolvi a implementação de funções para análises de um conjunto de dados sobre empregos, que foram extraídos do site Glassdoor e obtidos (pela Trybe) através do Kaggle, uma plataforma que disponibiliza conjuntos de dados para cientistas de dados.
 
-## Nesse projeto, aprendi e coloquei em prática:
+## Nesse projeto, aprendi e coloquei em prática
 - Utilizar o terminal interativo do Python
 - Utilizar estruturas condicionais e de repetição
 - Utilizar funções built-in do Python
@@ -118,9 +117,8 @@ Fiz este projeto de Ciência da Computação em Python durante meu período de a
 - Escrever funções
 - Escrever testes com Pytest
 - Escrever meus próprios módulos e importá-los em outros códigos 
-<hr/>
 
-## De acordo com os requisitos do projeto designados pela Trybe aprendi como:
+## De acordo com os requisitos do projeto designados pela Trybe aprendi como
 - ✅ Implementar a função `read`
 - ✅ Implementar a função `get_unique_job_types`
 - ✅ Implementar a função `get_unique_industries`
@@ -144,15 +142,12 @@ _*Ainda não decidi se é melhor deixar desta forma para demonstrar o meu progre
 
 _*Feedbacks são bem vindos.*_
 
-<hr/>
-
 ## Tecnologias Utilizadas
-### BackEnd:
+### BackEnd
 - Docker
 - Python
 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Docker2.png?raw=true" width="50" height="50" alt="Docker Icon" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Python2.png?raw=true" width="50" height="50" alt="Python Icon" /></a>
-<hr/>
 
 ## Como rodar a aplicação?
 #### Rodando localmente
@@ -169,8 +164,6 @@ _*Feedbacks são bem vindos.*_
 - Dentro do terminal python você poderá executar as funções, por exemplo: <br>
 `from src.jobs import read`<br>
 `read('src/jobs.csv')`
-
-<hr/>
 
 #### :whale: Rodando com Docker
 - Confirme que o Docker está rodando no seu computador
@@ -192,10 +185,6 @@ _*Feedbacks são bem vindos.*_
 - Dentro do terminal python você poderá executar as funções, por exemplo: <br>
 `from src.jobs import read`<br>
 `read('src/jobs.csv')`
-<hr/>
+---
 
 _*OBS: Se tiver alguma dificuldade com as instruções e quiser dar um feedback me mande uma mensagem*_
-
-<hr/>
-
-
